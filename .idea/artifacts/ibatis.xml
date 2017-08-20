@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ibatis">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ibatis</output-path>
+    <root id="archive" name="ibatis.jar" />
+  </artifact>
+</component>
